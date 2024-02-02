@@ -1,1 +1,1 @@
-Day 1 in main
+Day 1 in SQL
